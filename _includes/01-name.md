@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Nolan Hardeman - Welcome!
+#### This is my very first portfolio, watch as it grows.
